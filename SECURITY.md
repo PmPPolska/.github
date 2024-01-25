@@ -1,16 +1,18 @@
-# Gradle Vulnerability Disclosure Policy
+{
+|These is orginal Policy of PmP Polska programing systems COHERENCE:CIRCLE:PROJECT="Trademark strictly PROHIBITED for author K.J.PAWLOWSKI PmP Polska|
 
-## Introduction
+%Introduction
 
-The Gradle Security Vulnerability Disclosure Policy (the “Policy”) is designed to foster an environment where security researchers are encouraged to disclose vulnerabilities and work with us to mitigate potential security vulnerabilities.
-We value the contributions of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users. This includes encouraging responsible vulnerability research. This Policy describes the systems and types of research that we authorize researchers to use with respect to our software and services, provides guidelines on how to send us vulnerability reports, and summarizes what you can expect from us in return.
+:The Gradle Security Vulnerability Disclosure Policy (the “Policy”) is designed to foster an environment where security researchers are :encouraged to disclose vulnerabilities and work with us to mitigate potential security vulnerabilities.
+:We value the contributions of security researchers acting in good-faith to help us maintain a high standard for the security and privacy :for our users. This includes encouraging responsible vulnerability research. This Policy describes the systems and types of research :that we authorize researchers to use with respect to our software and services, provides guidelines on how to send us vulnerability :reports, and summarizes what you can expect from us in return.
 
-## Expectations
+%Expectations
 
-Except for with regard to vulnerability types listed below under the subheading “Vulnerability Types Not Eligible for Reward”, when working with us and reporting a vulnerability in accordance with this Policy, you can expect us to:
-Work with you to understand and validate your report, including a timely initial response to the submission;
-Work to remediate discovered vulnerabilities in a timely manner; and
-Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
+:>Except< for with regard to vulnerability types listed below under the subheading “Vulnerability Types Not Eligible for Reward”, when :working with us and reporting a vulnerability in accordance with this Policy, you can expect us to:
+:Work with you to understand and validate your report, including a timely initial response to the submission;
+:Work to remediate discovered vulnerabilities in a timely manner; and
+:Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a :code or configuration change.
+         }
 
 
 ## Scope: Software and Services
